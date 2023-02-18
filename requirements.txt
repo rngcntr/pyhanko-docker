@@ -1,0 +1,2 @@
+pyhanko[opentype] == 0.17.0
+Pillow == 9.4.0

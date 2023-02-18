@@ -1,0 +1,5 @@
+stamp-styles:
+  default:
+    type: text
+    background: /mnt/signature.png
+    stamp-text: ''
